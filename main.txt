@@ -1,1 +1,8 @@
 hello everyone!
+print(" giải phương trình bậc 2  có dạng ax^2+bx+c=0")
+print(" nhập các hệ số  a,b ,c")
+a = float(input(" nhập hằng số a: "))
+b = float(input(" nhập hằng số b: "))
+c = float(input("nhập hàng số c: "))
+print("tính tổng các số a,b,c: ",a+b+c)
+
